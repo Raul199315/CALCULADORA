@@ -1,0 +1,22 @@
+body{
+    display: ;
+    
+}
+
+.numeros{
+    height:400px;
+    width: 250px;
+    background-color: rgb(26, 27, 27);
+}
+
+button{
+    height: 60px;
+    width: 60px;
+    background-color: rgb(180, 190, 190);
+    border-radius: 10px;
+}
+.pantalla{
+    height: 30px;
+    width: 250px;
+    background-color: rgb(94, 92, 91);
+}
