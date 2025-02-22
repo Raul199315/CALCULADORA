@@ -1,5 +1,5 @@
 body{
-    display: ;
+    
     
 }
 
@@ -15,8 +15,9 @@ button{
     background-color: rgb(180, 190, 190);
     border-radius: 10px;
 }
-.pantalla{
+#pantalla{
     height: 30px;
-    width: 250px;
-    background-color: rgb(94, 92, 91);
+    width: 245px;
+    background-color: rgb(46, 56, 44);
+    font-size: 30px;
 }
