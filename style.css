@@ -1,19 +1,19 @@
 
 .numeros{
-    height:400px;
-    width: 250px;
+    height:700px;
+    width: 450px;
     background-color: rgb(26, 27, 27);
 }
 
 button{
-    height: 60px;
-    width: 60px;
+    height: 120px;
+    width: 120px;
     background-color: rgb(180, 190, 190);
     border-radius: 10px;
 }
 #pantalla{
-    height: 30px;
-    width: 245px;
+    height: 60px;
+    width: 440px;
     background-color: rgb(46, 56, 44);
     font-size: 30px;
 }
