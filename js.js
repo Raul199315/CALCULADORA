@@ -1,4 +1,4 @@
-function appendToDisplay(value){
-document.getElementById('pantalla').value += value;
+function dijitarNumero(valor) {
+    var pantalla = document.getElementById("pantalla");
+    pantalla.value += valor;
 }
-
