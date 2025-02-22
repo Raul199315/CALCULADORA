@@ -1,4 +1,11 @@
 function dijitarNumero(valor) {
-    var pantalla = document.getElementById("pantalla");
+    let pantalla = document.getElementById("pantalla");
     pantalla.value += valor;
+}
+
+// funcion para borrar
+
+function borrar(){
+    let pantalla = document.getElementById("pantalla");
+    pantalla.value = "";
 }
