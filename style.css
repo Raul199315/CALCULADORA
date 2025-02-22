@@ -1,4 +1,10 @@
 
+.tiny5-regular {
+    font-family: "Tiny5", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 .numeros{
     height:700px;
     width: 450px;
@@ -16,4 +22,10 @@ button{
     width: 440px;
     background-color: rgb(46, 56, 44);
     font-size: 30px;
+    font-family: "Grechen Fuemen", serif;
+}
+#botonSelecionar{
+    color: rgb(253, 253, 253);
+    height: 40px;
+    background-color: rgb(79, 79, 82);
 }
