@@ -1,4 +1,8 @@
+@font-face{
+    font-family: 'OPTICalculator';
+    src:url(OPTICalculator.ttf)
 
+}
 .tiny5-regular {
     font-family: "Tiny5", serif;
     font-weight: 400;
@@ -16,13 +20,14 @@ button{
     width: 120px;
     background-color: rgb(180, 190, 190);
     border-radius: 10px;
+    font-family: 'OPTICalculator' 
 }
 #pantalla{
     height: 60px;
     width: 440px;
     background-color: rgb(46, 56, 44);
     font-size: 30px;
-    font-family: "Grechen Fuemen", serif;
+    font-family: 'OPTICalculator'
 }
 #botonSelecionar{
     color: rgb(253, 253, 253);
