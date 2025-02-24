@@ -19,3 +19,11 @@ function calcularResultado() {
         pantalla.value = "Error"
     }
 }
+// funcion para cambiar de tema
+
+function tema(){
+    let opciones = document.querySelector('selec').value;
+    if(opciones == "claro" ){
+        
+    }
+}
