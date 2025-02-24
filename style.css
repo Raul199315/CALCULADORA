@@ -20,13 +20,14 @@ button{
     width: 120px;
     background-color: rgb(180, 190, 190);
     border-radius: 10px;
-    font-family: 'OPTICalculator' 
+    font-family: 'OPTICalculator';
+    font-size: 30px;
 }
 #pantalla{
-    height: 60px;
+    height: 90px;
     width: 440px;
     background-color: rgb(46, 56, 44);
-    font-size: 30px;
+    font-size: 50px;
     font-family: 'OPTICalculator'
 }
 #botonSelecionar{
