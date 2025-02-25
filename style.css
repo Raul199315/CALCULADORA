@@ -11,13 +11,13 @@
 
 .numeros{
     height:700px;
-    width: 450px;
+    width: 380px;
     background-color: rgb(26, 27, 27);
 }
 
 button{
-    height: 120px;
-    width: 120px;
+    height: 100px;
+    width: 100px;
     background-color: rgb(180, 190, 190);
     border-radius: 10px;
     font-family: 'OPTICalculator';
